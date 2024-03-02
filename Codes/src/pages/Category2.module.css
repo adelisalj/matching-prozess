@@ -1,0 +1,41 @@
+.buttonSelectionFrame,
+.macbookAir2 {
+  box-sizing: border-box;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.buttonSelectionFrame {
+  width: 1234px;
+  flex-direction: row;
+  padding: 0 var(--padding-lg);
+}
+.macbookAir2 {
+  flex: 1;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 var(--padding-18xl);
+  gap: 106px 0;
+}
+.category2 {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .macbookAir2 {
+    gap: 106px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .macbookAir2 {
+    gap: 106px 0;
+  }
+}

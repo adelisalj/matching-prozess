@@ -1,0 +1,33 @@
+.macbookAir1 {
+  flex: 1;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-18xl);
+  gap: 106px 0;
+  max-width: 100%;
+}
+.category3 {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .macbookAir1 {
+    gap: 106px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .macbookAir1 {
+    gap: 106px 0;
+  }
+}

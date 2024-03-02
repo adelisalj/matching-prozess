@@ -1,0 +1,135 @@
+.frameChild {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.logoIcon {
+  height: 113px;
+  width: 378px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 2;
+}
+.thirdLevelFrameChild {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.otherFunction,
+.qa {
+  display: inline-block;
+}
+.otherFunction {
+  margin: 0;
+  width: 245px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  flex-shrink: 0;
+  white-space: nowrap;
+  z-index: 3;
+}
+.qa {
+  height: 34px;
+}
+.auslnderbehrde,
+.qa {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 3;
+}
+.qAArea {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 31px;
+  max-width: 100%;
+}
+.profil {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 3;
+}
+.fourteenthLevelFrame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+}
+.thirdLevelFrame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-sm) var(--padding-10xs) var(--padding-10xs) 0;
+  position: relative;
+  gap: 0 27.5px;
+}
+.instanceParent,
+.secondaryFrame,
+.thirdLevelFrame {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.secondaryFrame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-base);
+}
+.instanceParent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-6xl) var(--padding-21xl) var(--padding-7xl)
+    var(--padding-xl);
+  position: relative;
+  gap: 0 69px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-steelblue-200);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 750px) {
+  .instanceParent {
+    gap: 0 69px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .qAArea {
+    gap: 0 31px;
+  }
+  .instanceParent {
+    gap: 0 69px;
+  }
+}

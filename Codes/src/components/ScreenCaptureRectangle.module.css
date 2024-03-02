@@ -1,0 +1,492 @@
+.whatAreYour {
+  margin: 0;
+  height: 58px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.modeAwarenessButton {
+  width: 1102px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.bildschirmfoto20240215Um0 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.bildschirmfoto20240215Um0Wrapper {
+  height: 174px;
+  width: 171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+}
+.modebewusstsein {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button6,
+.selection14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection14 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 241px;
+  z-index: 1;
+}
+.modebewusstsein1 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button7,
+.selection141 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection141 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  z-index: 1;
+}
+.modeAwareButton {
+  width: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+}
+.modebewusstsein2 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button8,
+.selection142 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection142 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 116px;
+  z-index: 1;
+}
+.button6Parent,
+.selectionModeButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.button6Parent {
+  gap: 0 41px;
+}
+.selectionModeButton {
+  padding: 0 0 0 var(--padding-11xl);
+  box-sizing: border-box;
+}
+.modebewusstsein3 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button9,
+.selection143 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection143 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  min-width: 138px;
+  z-index: 1;
+}
+.modebewusstsein4 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button10,
+.selection144 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection144 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  z-index: 1;
+}
+.selectionFrame {
+  width: 186px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+}
+.modebewusstsein5 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button11,
+.selection145 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection145 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  z-index: 1;
+}
+.selectionFrame1 {
+  width: 143px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) 0 0;
+  box-sizing: border-box;
+}
+.modebewusstsein6 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.selection146 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  align-items: center;
+  padding: var(--padding-xs);
+}
+.button12,
+.nextPageFrame,
+.selection146 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.button12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 124px;
+  align-items: center;
+  z-index: 1;
+}
+.nextPageFrame {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 0 29px;
+}
+.rectangleContainer,
+.selectionModeButtonParent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.selectionModeButtonParent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 43px 0;
+  min-width: 489px;
+}
+.rectangleContainer {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0 80px;
+}
+.modebewusstsein7 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button13,
+.selection147 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection147 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 151px;
+  z-index: 1;
+}
+.modebewusstsein8 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button14,
+.selection148 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection148 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  min-width: 161px;
+  z-index: 1;
+}
+.button13Parent,
+.nextPageButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.button13Parent {
+  width: 438px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 0 40px;
+}
+.nextPageButton {
+  width: 702px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.modeAwarenessFrame,
+.selectionInstance {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.modeAwarenessFrame {
+  width: 1024px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: 10px 0;
+}
+.selectionInstance {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.screenCaptureRectangle,
+.selectionButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: left;
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}
+.selectionButton {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 101px 0;
+  font-size: var(--font-size-2xl);
+}
+.screenCaptureRectangle {
+  flex: 1;
+  align-items: center;
+  gap: 88px 0;
+  font-size: var(--font-size-29xl);
+}
+@media screen and (max-width: 1200px) {
+  .selectionButton {
+    gap: 101px 0;
+  }
+  .screenCaptureRectangle {
+    gap: 88px 0;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .whatAreYour {
+    font-size: var(--font-size-19xl);
+  }
+  .rectangleContainer {
+    gap: 0 80px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .button6Parent {
+    flex-wrap: wrap;
+    gap: 0 41px;
+  }
+  .nextPageFrame {
+    flex-wrap: wrap;
+  }
+  .selectionModeButtonParent {
+    gap: 43px 0;
+    min-width: 100%;
+  }
+  .rectangleContainer {
+    gap: 0 80px;
+  }
+  .selectionButton {
+    gap: 101px 0;
+  }
+  .screenCaptureRectangle {
+    gap: 88px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .whatAreYour {
+    font-size: var(--font-size-10xl);
+  }
+  .modebewusstsein,
+  .modebewusstsein1,
+  .modebewusstsein2,
+  .modebewusstsein3,
+  .modebewusstsein4,
+  .modebewusstsein5,
+  .modebewusstsein6,
+  .modebewusstsein7,
+  .modebewusstsein8 {
+    font-size: var(--font-size-mid);
+  }
+  .button13Parent {
+    gap: 0 40px;
+  }
+}

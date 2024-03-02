@@ -1,0 +1,317 @@
+.whatAreYour {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.attitudeMaxQuestion {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.modebewusstsein {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button23,
+.selection14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection14 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button23 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 162px;
+  z-index: 1;
+}
+.modebewusstsein1 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button24,
+.selection141 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection141 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button24 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  min-width: 136px;
+  z-index: 1;
+}
+.modeText,
+.wHATQuestions {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.wHATQuestions {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 0 51px;
+}
+.modeText {
+  width: 444px;
+  padding: 0 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+}
+.modebewusstsein2 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button25,
+.selection142 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection142 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button25 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 161px;
+  z-index: 1;
+}
+.modebewusstsein3 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button26,
+.selection143 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection143 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button26 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  min-width: 147px;
+  z-index: 1;
+}
+.modebewusstsein4 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.selection144 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs);
+}
+.button27,
+.nextPageBtn,
+.selection144 {
+  display: flex;
+  flex-direction: row;
+}
+.button27 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 164px;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.nextPageBtn {
+  align-self: stretch;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs) 0 0;
+  gap: 0 38px;
+}
+.modebewusstsein5 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button28,
+.selection145 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection145 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button28 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  z-index: 1;
+}
+.button28Wrapper,
+.selectionModeText {
+  display: flex;
+  justify-content: flex-start;
+}
+.button28Wrapper {
+  width: 318px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+}
+.selectionModeText {
+  width: 628px;
+  flex-direction: column;
+  align-items: center;
+  gap: 43px 0;
+  max-width: 100%;
+}
+.innerFrameB {
+  width: 907px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-smi) 0;
+  box-sizing: border-box;
+}
+.frameC,
+.innerFrameB,
+.nextPageButton {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameC {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 88px 0;
+}
+.nextPageButton {
+  width: 1094px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-28xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1100px) {
+  .nextPageButton {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1025px) {
+  .whatAreYour {
+    font-size: var(--font-size-19xl);
+  }
+  .frameC {
+    gap: 88px 0;
+  }
+}
+@media screen and (max-width: 750px) {
+  .nextPageBtn {
+    gap: 0 38px;
+  }
+  .selectionModeText {
+    gap: 43px 0;
+  }
+  .frameC {
+    gap: 88px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .whatAreYour {
+    font-size: var(--font-size-10xl);
+  }
+  .modebewusstsein,
+  .modebewusstsein1 {
+    font-size: var(--font-size-mid);
+  }
+  .wHATQuestions {
+    gap: 0 51px;
+  }
+  .modebewusstsein2,
+  .modebewusstsein3,
+  .modebewusstsein4,
+  .modebewusstsein5 {
+    font-size: var(--font-size-mid);
+  }
+}

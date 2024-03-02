@@ -1,0 +1,398 @@
+.whatAreYour {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  z-index: 1;
+}
+.modebewusstseinButtons {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.modebewusstsein {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button15,
+.selection14 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection14 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 163px;
+  z-index: 1;
+}
+.modebewusstsein1 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button16,
+.selection141 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection141 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 149px;
+  z-index: 1;
+}
+.modebewusstsein2 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button17,
+.selection142 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection142 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button17 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 125px;
+  z-index: 1;
+}
+.buttonSelectionFrames2,
+.buttonSelectionFrames3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.buttonSelectionFrames3 {
+  gap: 0 58px;
+}
+.buttonSelectionFrames2 {
+  padding: 0 var(--padding-xs) 0 0;
+  box-sizing: border-box;
+}
+.modebewusstsein3 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button18,
+.selection143 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection143 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button18 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  z-index: 1;
+}
+.button18Wrapper {
+  width: 156px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 0;
+  box-sizing: border-box;
+}
+.modebewusstsein4 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button19,
+.selection144 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection144 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button19 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 140px;
+  z-index: 1;
+}
+.modebewusstsein5 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button20,
+.selection145 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection145 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button20 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 137px;
+  z-index: 1;
+}
+.buttonSelectionFrames4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 55px;
+  max-width: 100%;
+}
+.modebewusstsein6 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button21,
+.selection146 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection146 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button21 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 141px;
+  z-index: 1;
+}
+.modebewusstsein7 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button22,
+.selection147 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection147 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs) var(--padding-2xs);
+}
+.button22 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  min-width: 136px;
+  z-index: 1;
+}
+.modebuttonsAndFrames1 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0 46px;
+}
+.buttonSelectionFrames1,
+.modebuttonsAndFrames1,
+.modebuttonsAndFramesWrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.modebuttonsAndFramesWrapper {
+  width: 507px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-36xl);
+  box-sizing: border-box;
+}
+.buttonSelectionFrames1 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 43px 0;
+}
+.buttonSelectionFrames {
+  width: 853px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-smi) 0;
+  box-sizing: border-box;
+}
+.buttonSelectionFrames,
+.modebuttonsAndFrames,
+.nextPageButtonComponent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.modebuttonsAndFrames {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 88px 0;
+}
+.nextPageButtonComponent {
+  width: 1170px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-45xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .nextPageButtonComponent {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .whatAreYour {
+    font-size: var(--font-size-19xl);
+  }
+  .modebuttonsAndFrames {
+    gap: 88px 0;
+  }
+}
+@media screen and (max-width: 750px) {
+  .buttonSelectionFrames3 {
+    flex-wrap: wrap;
+    gap: 0 58px;
+  }
+  .buttonSelectionFrames4 {
+    flex-wrap: wrap;
+    gap: 0 55px;
+  }
+  .modebuttonsAndFramesWrapper {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .buttonSelectionFrames1 {
+    gap: 43px 0;
+  }
+  .modebuttonsAndFrames {
+    gap: 88px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .whatAreYour {
+    font-size: var(--font-size-10xl);
+  }
+  .modebewusstsein,
+  .modebewusstsein1,
+  .modebewusstsein2,
+  .modebewusstsein3,
+  .modebewusstsein4,
+  .modebewusstsein5,
+  .modebewusstsein6,
+  .modebewusstsein7 {
+    font-size: var(--font-size-mid);
+  }
+  .modebuttonsAndFrames1 {
+    gap: 0 46px;
+  }
+}

@@ -1,0 +1,316 @@
+.whatHardSkills {
+  margin: 0;
+  width: 1152px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-left: var(--padding-xl);
+}
+.maxSkillsLabel {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+}
+.bildschirmfoto20240215Um0 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.modeawarenessSelection {
+  height: 174px;
+  width: 171px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) 0 0;
+  box-sizing: border-box;
+}
+.berufsausbildung {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: left;
+}
+.button1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs);
+  background-color: var(--color-gainsboro);
+  flex: 0.897;
+  border-radius: var(--br-xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 151px;
+}
+.button1:hover {
+  background-color: var(--color-silver);
+}
+.modebewusstsein {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button2,
+.selection14 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection14 {
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  min-width: 157px;
+}
+.professionLabel,
+.selectionButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.professionLabel {
+  flex: 1;
+  gap: 0 48px;
+}
+.selectionButton {
+  width: 530px;
+  padding: 0 var(--padding-5xs) 0 0;
+  box-sizing: border-box;
+}
+.modebewusstsein1 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button3,
+.selection141 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection141 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 219px;
+}
+.modebewusstsein2 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button4,
+.selection142 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection142 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+}
+.profileFrame {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+  box-sizing: border-box;
+  min-width: 170px;
+}
+.modebewusstsein3 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-inter);
+  color: var(--color-gray);
+  text-align: center;
+}
+.button5,
+.selection143 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.selection143 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  padding: var(--padding-xs);
+}
+.button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 122px;
+}
+.modeButton,
+.nextPageButton {
+  display: flex;
+  justify-content: flex-start;
+}
+.nextPageButton {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 33px;
+}
+.modeButton {
+  width: 668px;
+  flex-direction: column;
+  align-items: center;
+  gap: 43px 0;
+  max-width: 100%;
+}
+.professionButton {
+  width: 958px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.hardSkillsFrame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 88px 0;
+}
+.hardSkillsFrame,
+.modeawarenessButton,
+.selectionFrame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.selectionFrame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-8xl) 0 0;
+  box-sizing: border-box;
+}
+.modeawarenessButton {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 160px 0;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1200px) {
+  .hardSkillsFrame {
+    gap: 88px 0;
+  }
+  .modeawarenessButton {
+    gap: 160px 0;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .whatHardSkills {
+    font-size: var(--font-size-19xl);
+  }
+  .professionButton {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .professionLabel {
+    flex-wrap: wrap;
+    gap: 0 48px;
+  }
+  .nextPageButton {
+    flex-wrap: wrap;
+    gap: 0 33px;
+  }
+  .modeButton {
+    gap: 43px 0;
+  }
+  .hardSkillsFrame {
+    gap: 88px 0;
+  }
+  .modeawarenessButton {
+    gap: 160px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .whatHardSkills {
+    font-size: var(--font-size-10xl);
+  }
+  .berufsausbildung {
+    font-size: var(--font-size-mid);
+  }
+  .button1 {
+    flex: 1;
+  }
+  .modebewusstsein,
+  .modebewusstsein1,
+  .modebewusstsein2,
+  .modebewusstsein3 {
+    font-size: var(--font-size-mid);
+  }
+  .modeawarenessButton {
+    gap: 160px 0;
+  }
+}
